@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Indian Cinematic Bundle',
-  description: 'Get instant access to 500+ premium cinematic videos.',
+  description: 'Get instant access to 550+ premium cinematic videos.',
 };
 
 export default function RootLayout({
